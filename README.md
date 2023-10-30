@@ -29,5 +29,5 @@
 ## My Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hzeng9&show_icons=true&locale=en&theme=dark" alt="hzeng9" /></p>
 
-## Github Contributions
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hzeng9&theme=dark" alt="hzeng9" /></p>
+## GitHub Contributions
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hzeng9&theme=dark" alt="GitHub Streak" /></a></p>
