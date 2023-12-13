@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋 I'm Hao Yuan Zeng</h1>
 <h3 align="center">A passionate Front-end developer in the US</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hzeng9&label=Profile%20views&color=0e75b6&style=flat" alt="hzeng9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hzeng9&label=Profile%20views&color=0e75b6&style=flat" alt="h-yzeng" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hzeng9&theme=darkhub&margin-w=4" alt="hzeng9" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hzeng9&theme=darkhub&margin-w=4" alt="h-yzeng" /></a> </p>
 
 - 🔭 I’m currently working on **Java Mini-Games**
 
