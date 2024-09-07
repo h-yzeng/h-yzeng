@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Retro-Minigames**
 
-- 🌱 I’m currently learning **Bootstrap, Sass, Redux, Tailwind, JavaScript, TypeScript, React, Bash**
+- 🌱 I’m currently learning **JavaScript, TypeScript, React, Bash**
 
 - 💬 Ask me about **HTML, CSS, Java, Python, and SQL**
 
