@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, Java, Python, and SQL**
 
-- 📫 How to reach me **thyzeng@gmail.com**
+- 📫 How to reach me **thyzeng@gmail.com** or my LinkedIn below
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/hao-yuan-zeng/"><img src="https://skillicons.dev/icons?i=linkedin"> </a> </p>
