@@ -33,8 +33,7 @@
 </p>
 
 ## My Most Used Languages and GitHub Stats
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h-yzeng&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" height="192px alt="h-yzeng" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h-yzeng&show_icons=true&locale=en&hide_border=true&theme=dark" height="192px alt="h-yzeng" /></p> |
-| ------------- | ------------- |
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h-yzeng&show_icons=true&locale=en&layout=compact&theme=dark" alt="h-yzeng" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h-yzeng&show_icons=true&locale=en&theme=dark" alt="h-yzeng" /></p> |
 
 ## GitHub Contributions
 <p>
