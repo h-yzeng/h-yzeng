@@ -36,7 +36,7 @@
 
 <div style="display: flex; justify-content: flex-start;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-yzeng&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="h-yzeng's Top Languages" style="height: 200px; margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-yzeng&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="h-yzeng's Top Languages" style="height: 200px;"/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=h-yzeng&show_icons=true&locale=en&hide_border=true&theme=dark" alt="h-yzeng's GitHub Stats" style="height: 200px;"/>
 
