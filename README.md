@@ -16,12 +16,10 @@
 - 📫 How to reach me **thyzeng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hao-yuan-zeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hao-yuan-zeng" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/hao-yuan-zeng/"><img src="https://skillicons.dev/icons?i=linkedin"> </a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://github.com/h-yzeng"><img src="https://skillicons.dev/icons?i=css,html,js,mysql,mongodb,vscode,github,"> </a> </p>
+<p align="left"> <a href="https://github.com/h-yzeng"><img src="https://skillicons.dev/icons?i=css,html,js,mysql,mongodb,vscode,github"> </a> </p>
 
 ## My Most Used Languages and GitHub Stats
 | <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h-yzeng&show_icons=true&locale=en&layout=compact&theme=dark" alt="h-yzeng" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h-yzeng&show_icons=true&locale=en&theme=dark" alt="h-yzeng" /></p> |
