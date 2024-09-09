@@ -43,8 +43,8 @@
 
 
 ## GitHub Contributions
-<p>
+<div align="center">
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=h-yzeng&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=h-yzeng&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
-</p>
+</div>
