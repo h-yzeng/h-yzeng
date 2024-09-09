@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Front-End Developer based in the US</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=h-yzeng&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=h-yzeng&icon=0&color=1" alt="Visit Count" />
 </p>
 
 <p align="left">
@@ -51,10 +51,3 @@
   </div>
 
 </div>
-
-
-</div>
-
-
-
-
