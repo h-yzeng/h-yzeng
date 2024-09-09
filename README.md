@@ -35,17 +35,12 @@
 ## GitHub Lanauges, Stats, and Contributions
 
 <div style="display:flex;flex-direction:row;justify-content:center;">
-
   <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=h-yzeng&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="h-yzeng's Top Languages" style="margin: 0"/>
-
   <img height="185" src="https://github-readme-stats.vercel.app/api?username=h-yzeng&show_icons=true&locale=en&hide_border=true&theme=dark" alt="h-yzeng's GitHub Stats" style="margin: 0"/>
-
-  
-
 </div>
 
-## 
-
-<a href="https://git.io/streak-stats"> <img align="center" height="185" src="https://github-readme-streak-stats.herokuapp.com?user=h-yzeng&theme=dark&hide_border=true" alt="GitHub Streak" style="margin: 0" />
-  
-</a>
+<div style="text-align: center;">
+  <a href="https://git.io/streak-stats">
+    <img height="185" src="https://github-readme-streak-stats.herokuapp.com?user=h-yzeng&theme=dark&hide_border=true" alt="GitHub Streak" style="margin: 0" />
+  </a>
+</div>
