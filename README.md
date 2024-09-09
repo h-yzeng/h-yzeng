@@ -39,8 +39,8 @@
   <img height="185" src="https://github-readme-stats.vercel.app/api?username=h-yzeng&show_icons=true&locale=en&hide_border=true&theme=dark" alt="h-yzeng's GitHub Stats" style="margin: 0"/>
 </div>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <a href="https://git.io/streak-stats">
-    <img height="185" src="https://github-readme-streak-stats.herokuapp.com?user=h-yzeng&theme=dark&hide_border=true" alt="GitHub Streak" style="margin: 0 auto;" />
+    <img height="185" src="https://github-readme-streak-stats.herokuapp.com?user=h-yzeng&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
