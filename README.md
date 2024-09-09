@@ -37,17 +37,17 @@
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
 
   <div style="margin: 0; padding: 0; line-height: 0;">
-    <img width="500" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=h-yzeng&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="h-yzeng's Top Languages" style="margin: 0; padding: 0;" />
+    <img width="500" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=h-yzeng&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark_dimmed" alt="h-yzeng's Top Languages" style="margin: 0; padding: 0;" />
   </div>
   
   <div style="margin: 0; padding: 0; line-height: 0;">
     <a href="https://git.io/streak-stats">
-      <img width="500" height="230" src="https://github-readme-streak-stats.herokuapp.com?user=h-yzeng&theme=dark&hide_border=true" alt="GitHub Streak" style="margin: 0; padding: 0;" />
+      <img width="500" height="230" src="https://github-readme-streak-stats.herokuapp.com?user=h-yzeng&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" style="margin: 0; padding: 0;" />
     </a>
   </div>
   
   <div style="margin: 0; padding: 0; line-height: 0;">
-    <img width="500" height="230" src="https://github-readme-stats.vercel.app/api?username=h-yzeng&show_icons=true&locale=en&hide_border=true&theme=dark" alt="h-yzeng's GitHub Stats" style="margin: 0; padding: 0;" />
+    <img width="500" height="230" src="https://github-readme-stats.vercel.app/api?username=h-yzeng&show_icons=true&locale=en&hide_border=true&theme=github_dark_dimmed" alt="h-yzeng's GitHub Stats" style="margin: 0; padding: 0;" />
   </div>
 
 </div>
