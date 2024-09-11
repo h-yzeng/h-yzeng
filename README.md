@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Henry Zeng <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">A passionate Front-End Developer based in the US</h3>
+<h3 align="center">A Front-End Developer based in the US</h3>
 
 <p align="left">
   <img src="https://visitcount.itsvg.in/api?id=h-yzeng&icon=0&color=1" alt="Visit Count" />
