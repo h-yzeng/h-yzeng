@@ -11,8 +11,8 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Retro-Minigames**
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Bash**
+- 🔭 I’m currently working on my portfolio website
+- 🌱 I’m currently learning **JavaScript, TypeScript, Bootstrap, React, Redux, and Bash**
 - 💬 Ask me about **HTML, CSS, Java, Python, and SQL**
 - 📫 How to reach me: **thyzeng@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/hao-yuan-zeng/)
 
