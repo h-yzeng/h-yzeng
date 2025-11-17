@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on my masters degree in IT
-- 🌱 I’m currently learning **Networking and Operating Systems"
+- 🌱 I’m currently learning **Networking and Operating Systems**
 - 💬 Ask me about **HTML/CSS, JavaScript, TypeScript, React, Java, Python, and SQL**
 - 📫 How to reach me: **thyzeng@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/henry-zeng-/)
 
