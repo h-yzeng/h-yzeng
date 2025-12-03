@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://github.com/h-yzeng">
-    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,java,python,sql,mysql,mongodb,vscode,github,vercel" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,nodejs,npm,tailwind,java,python,django,fastapi,dart,flutter,mysql,mongodb,sqlite,firebase,vscode,eclipse,github,git,figma,vercel,vite" alt="Languages and Tools" />
   </a>
 </p>
 
