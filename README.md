@@ -1,12 +1,6 @@
 <h1 align="center">Hi! I'm Henry Zeng <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Full-stack Web Developer and IT Helpdesk Support</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=h-yzeng&theme=onestar&margin-w=4&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on my masters degree in IT
 - 🌱 I’m currently learning **Networking and Operating Systems**
 - 💬 Ask me about **HTML/CSS, JavaScript, TypeScript, React, Java, Python, and SQL**
